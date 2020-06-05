@@ -13,6 +13,7 @@ Il progetto consiste nell’implementazione di una versione client/server del gi
 Il progetto sarà diviso in due programmi:
   * nimserver che si occupa di gestire la partita
   * nimclient che fornisce l’interfaccia di gioco.
+Funzionamento:
 - nimserver resta in ascolto di connessioni da parte dei client su un socket locale di dominio UNIX.
 - Ogni singolo giocatore si collega al server utilizzando nimclient.
 - Alla connessione del primo client, nimserver aspetta che se ne connetta un secondo. Dopodiché, fa cominciare la partita gestendo la connessione con i due client su un thread separato, tornando nel thread principale ad aspettare altre connessioni per, eventualmente, gestire altre partite.
