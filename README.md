@@ -1,5 +1,5 @@
-# Project_SO_Lab
-Nim Game: laboratory project for Operating System Project
+# Laboratory project for Operating System Project
+Realizzazione del gioco Nim.
 
 ## Consegna
 Il progetto qui assegnato consiste nel redigere un programma in linguaggio C che operi nel modo descritto nella prossima sezione.
