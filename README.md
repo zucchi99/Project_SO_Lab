@@ -10,9 +10,11 @@ Il progetto è dunque facoltativo, ma necessario per ottenere, nel corso di Labo
 
 ## Testo del Progetto
 Il progetto consiste nell’implementazione di una versione client/server del gioco chiamato Nim1. Il gioco, che si svolge tra due giocatori, prevede due pile di pedine di lunghezza arbitraria. A turno ogni giocatore sceglie una delle due pile e un numero arbitrario di pedine da rimuovere dalla pila scelta. Alla fine, vince il giocatore che si trova a rimuovere l’ultima pedina. 
+
 Il progetto sarà diviso in due programmi:
   * nimserver che si occupa di gestire la partita
   * nimclient che fornisce l’interfaccia di gioco.
+
 Funzionamento:
 - nimserver resta in ascolto di connessioni da parte dei client su un socket locale di dominio UNIX.
 - Ogni singolo giocatore si collega al server utilizzando nimclient.
