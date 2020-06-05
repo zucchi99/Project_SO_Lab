@@ -3,7 +3,7 @@ Realizzazione del gioco Nim.
 
 ## Consegna
 Il progetto qui assegnato consiste nel redigere un programma in linguaggio C che operi nel modo descritto nella prossima sezione.
-Il progetto, facoltativo, svolto eventualmente in coppia o al massimo in gruppi da tre persone, è da consegnare **entro dieci giorni** dalla data dell’appello di esame di Laboratorio di Sistemi Operativi al quale lo studente si vuole presentare.
+Il progetto, facoltativo, svolto eventualmente in coppia o al massimo in gruppi da tre persone, è da consegnare **entro dieci giorni dalla data dell’appello di esame di Laboratorio di Sistemi Operativi** al quale lo studente si vuole presentare.
 Al progetto, se consegnato in tempo e di valutazione sufficiente, viene assegnato un punteggio tra 1 e 5.
 Il punteggio viene aggiunto al voto del compito scritto di Laboratorio di Sistemi Operativi, che avrà un massimo di 26 punti.
 Il progetto è dunque facoltativo, ma necessario per ottenere, nel corso di Laboratorio, un voto maggiore di 26.
