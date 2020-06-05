@@ -1,4 +1,4 @@
-# Laboratory project for Operating System Project
+# Progetto di Laboratorio per il corso di Sistemi Operativi
 Realizzazione del gioco Nim.
 
 ## Consegna
